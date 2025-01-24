@@ -14,6 +14,7 @@ Here are a few highlights of my work:
 - **Heart Disease Prediction**: Leveraged machine learning algorithms to analyze and predict heart conditions based on medical data.
 - **Daycare website**: Created an website for a daycare.
 - **Task Management System**: Designed and implemented a simple to-do list application.
+- **Fortune Cookie Generator**: Designed and created a simple and fun fortune cookie message generator website.
 
 ## Skills 
 - **Programming Languages**: Java, C/C++, Python(basics) 
@@ -24,12 +25,11 @@ Here are a few highlights of my work:
 
 ## Achievements 
 - Collaborated on research papers in fields like AI and healthcare.
-- Actively practiced in Leetcode - solved 300+
+- Actively practiced in Leetcode - solved 400+
 
 ## What I'm Working On 
 Currently, I’m:
 - Building a **book recommendation system** using machine learning.  
-- Designing fun projects like Fortune Cookie Message Generator
 - Preparing for a career as a **Software Development Engineer (SDE)**.
 
   ## Fun Facts 
