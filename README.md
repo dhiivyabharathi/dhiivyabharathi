@@ -1,6 +1,6 @@
 # Hi there, I'm Dhivya Bharathi! 
-
-I'm a **3rd-year Electronics and Communication Engineering student (2022-2026)**.
+QA Automation Engineer.
+Electronics and Communication Engineering student (2022-2026).
 
 ## My Interests 
 My primary interests include:
@@ -30,7 +30,6 @@ Here are a few highlights of my work:
 ## What I'm Working On 
 Currently, I’m:
 - Building a **book recommendation system** using machine learning.  
-- Preparing for a career as a **Software Development Engineer (SDE)**.
 
   ## Fun Facts 
 - I read books and review them.
